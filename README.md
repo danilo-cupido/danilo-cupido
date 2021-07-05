@@ -5,12 +5,12 @@ I was born in Italy and I'm currently living in the UK where I'm studying to bec
 I'm part of the FAC 22 Cohort [@foundersandcoders](https://github.com/foundersandcoders) 
 
 ## I love 
-juggling 🤹
-cycling 🚴‍♂️ 
-sci-fi 🤖 
-reading 📚 
+* juggling 🤹
+* cycling 🚴‍♂️ 
+* sci-fi 🤖 
+* reading 📚 
 
-**_Thank your for visiting my page!!_**
+**_Thank you for visiting my page!!_**
 
 
 
