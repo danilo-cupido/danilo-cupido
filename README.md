@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello everyone 👋
+
+My name is Danilo (he/him). 
+I was born in Italy and I'm currently living in the UK where I'm studying to become a web delevoper 💻 
+I'm part of the FAC 22 Cohort [@foundersandcoders](https://github.com/foundersandcoders) 
+
+## I love 
+juggling 🤹
+cycling 🚴‍♂️ 
+sci-fi 🤖 
+reading 📚 
+
+**_Thank your for visiting my page!!_**
+
+
 
 <!--
 **danilo-cupido/danilo-cupido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
