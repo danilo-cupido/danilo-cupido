@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
- <img src="https://media.giphy.com/media/lr24wONU2paokQfICt/giphy.gif"> 
+ <img src="https://media.giphy.com/media/hTUJMB4EzbfO5HoEtH/giphy.gif" width="100"> 
 
 My name is Danilo (he/him). 
 I was born in Italy and I'm currently living in the UK where I'm studying to become a web delevoper 💻 
