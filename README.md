@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/media/hTUJMB4EzbfO5HoEtH/giphy.gif" width="100"> 
 
 My name is Danilo (he/him). 
-I was born in Italy and I'm currently living in the UK where I'm studying to become a web delevoper 💻 
+I was born in Italy and I'm currently living in the UK where I'm studying to become a web developer 💻 
 I'm part of the FAC 22 Cohort [@foundersandcoders](https://github.com/foundersandcoders) 
 
 ## I love 
