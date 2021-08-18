@@ -26,6 +26,7 @@ Besides coding I love juggling 🤹 cycling 🚴‍♂️ karate 🥋 sci-fi �
 
 ### Some of my projects 💾 
 * [My projects gallery](https://danilo-cupido.github.io/pre-apprenticeship-projects/)
+* [Change All the Bad Things](https://danilo-cupido.github.io/Change-All-The-Bad-Things/): a Data collection project
 * [Tiger not a cat](https://fac22.github.io/tiger-not-a-cat/): an API project in [collaboration with Jihye](https://github.com/jijip41)
 * [DaSha Agency](https://fac22.github.io/DaSha-Agency/): a DOM manipulation project in [collaboration with Sasha](https://github.com/cerealenjoyer)
 * [My application website for FAC22](https://danilo-cupido.github.io/FAC22-Application/)
