@@ -44,11 +44,6 @@ Besides coding I love juggling 🤹 cycling 🚴‍♂️ karate 🥋 sci-fi �
 ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo-cupido&theme=bear&show_icons=true)
 
 
----
-
-**_Thank you for visiting my page!!_** 🖖
-
-
 <!--
 **danilo-cupido/danilo-cupido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
