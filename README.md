@@ -1,6 +1,4 @@
-<img src="https://media.giphy.com/media/hTUJMB4EzbfO5HoEtH/giphy.gif" width="200">
-
-A Software Engineer and Sci-Fi addict
+Software Engineer and Sci-Fi addict
 
 ---
 
