@@ -15,11 +15,11 @@ Software Developer and Sci-Fi addict
 * SQL & databases APIs 
 
 ---
-
+<!--
 ### Stats 📊
 
 ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo-cupido&theme=bear&show_icons=true)
-
+-->
 
 <!--
 **danilo-cupido/danilo-cupido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
